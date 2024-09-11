@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "S0DhpyZIwGCeOzseAiL/XS2lBOxXN94KPEmb3TTCdRs=",
+  "Source": "RoutePlanningService",
+  "BasePath": "_content/RoutePlanningService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

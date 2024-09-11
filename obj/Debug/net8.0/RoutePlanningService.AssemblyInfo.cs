@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("999dafda-9c09-404e-97c1-4a00c91a4cea")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("RoutePlanningService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8f68ffa4ebd60e36cfe1bc9c9500a5cde89f18df")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0bd5320ac81d6a81713e758b1bc3ca09ec02ac90")]
 [assembly: System.Reflection.AssemblyProductAttribute("RoutePlanningService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RoutePlanningService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
